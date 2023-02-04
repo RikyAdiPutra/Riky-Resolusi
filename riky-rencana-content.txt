@@ -3,5 +3,6 @@ Rencana kontent Riky
 - JavaScript
  - Es6
  - FrameWork Js
+ - Fundamental Struktur Data
 - Php
 - Interview

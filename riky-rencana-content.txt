@@ -6,6 +6,7 @@ Rencana kontent Riky
  - Fundamental Struktur Data
   * Vue
   * Laravel
+  * React
 - Php
 - Interview
 - Python

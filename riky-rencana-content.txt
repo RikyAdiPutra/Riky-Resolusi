@@ -3,4 +3,3 @@ Rencana kontent Riky
 - JavaScript
 - Php
 - Interview
-- Vlog

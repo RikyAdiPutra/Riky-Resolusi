@@ -4,5 +4,8 @@ Rencana kontent Riky
  - Es6
  - FrameWork Js
  - Fundamental Struktur Data
+  * Vue
+  * Laravel
 - Php
 - Interview
+- Python

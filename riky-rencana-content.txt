@@ -1,11 +1,13 @@
 Rencana kontent Riky
 
 - JavaScript
-- Es6
-- FrameWork Js
-  * Angular
+ - Es6
+ - FrameWork Js
+ - Fundamental Struktur Data
+  * Vue
+  * Laravel
   * React
-- Php Frame Work
- * Laravel
+- Php
 - Interview
-- Vlog
+- Python
+main

@@ -1,0 +1,7 @@
+Rencana kontent Riky
+
+- JavaScript
+ - Es6
+ - FrameWork Js
+- Php
+- Interview
